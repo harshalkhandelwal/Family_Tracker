@@ -8,3 +8,10 @@ The purpose of this document is to present a description of the tracking applica
 This application software will be produced by the name of Family Tracker. This application is designed to help people keep an eye on their children and the loved one’s for their safety. They will be able to do so by getting their locations on the map. More, specifically the system is designed to allow the users to see the location of other group members.
 
 ![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img2.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img3.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img4.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img5.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img6.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img7.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img8.png)
